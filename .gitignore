@@ -4,8 +4,6 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-config.json
-config.js
 data/
 test.js
 
@@ -65,5 +63,4 @@ assets/*
 !assets/soundInfo.js.sample
 /MFBGB-pm2-config.json
 /MFBGB-pm2.bat
-/valuePerGuild.js
 *.private.js
